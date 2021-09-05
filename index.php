@@ -64,7 +64,7 @@
 <svg class='icon'><use xlink:href='#icon-facebook'></use></svg>
 </span>
 </a>
-<a class='profile-card-social__item link' href='https://nguyenngocthuc.com' target='_blank'>
+<a class='profile-card-social__item link' href='https://www.adidas-group.xyz/2020/07/chang-trai-nguyen-huu-thang-sinh-nam.html' target='_blank'>
 <span class='icon-font'>
 <svg class='icon'><use xlink:href='#icon-link'></use></svg>
 </span>
